@@ -1,0 +1,96 @@
+mysql> select vg_dbname from vg_dbretirement order by vg_dbname;
++-----------+
+| vg_dbname |
++-----------+
+| amlprd00  |
+| awdprd00  |
+| boeprd00  |
+| brpprd20  |
+| cahprd00  |
+| clpprd20  |
+| crnprd00  |
+| ctmprd10  |
+| ctsprd00  |
+| dbcprd00  |
+| ddwprd00  |
+| dfmprd00  |
+| dfmprd10  |
+| dshprd10  |
+| dsuprd10  |
+| dsuprd20  |
+| dsuprd30  |
+| dsuprd40  |
+| dtcprd00  |
+| dtsprd00  |
+| ecmprd00  |
+| ecoprd00  |
+| eddprd20  |
+| ediprd00  |
+| edoprd00  |
+| edrprd20  |
+| etaprd00  |
+| fceprd70  |
+| fceprd90  |
+| feiprd70  |
+| gbsprd00  |
+| gdsprd00  |
+| halprd10  |
+| hypprd10  |
+| iamprd00  |
+| iamprd20  |
+| iamprd30  |
+| iamprd50  |
+| idmprd10  |
+| igaprd00  |
+| igaprd10  |
+| imhprd00  |
+| imsprd00  |
+| iwiprd00  |
+| lbvprd00  |
+| lipprd00  |
+| lmsprd00  |
+| mmrprd10  |
+| mmrprd20  |
+| mopprd00  |
+| msgprd00  |
+| ocmprd00  |
+| oddprd10  |
+| oeiprd00  |
+| oemprd00  |
+| oidprd00  |
+| oidprd10  |
+| oraprd00  |
+| pacprd00  |
+| rmnprd00  |
+| rmnprd20  |
+| rmtprd00  |
+| romprd00  |
+| rsaprd00  |
+| rsaprd10  |
+| sbmprd00  |
+| sbmprd40  |
+| sbmprd60  |
+| sbmprd70  |
+| sbmprd80  |
+| sbmprd90  |
+| srmprd00  |
+| svaprd00  |
+| tbwprd50  |
+| tbwprd60  |
+| tbwprd80  |
+| tlrprd20  |
+| tlrprd30  |
+| tmaprd30  |
+| ucmprd00  |
+| uieprd10  |
+| uieprd20  |
+| uieprd30  |
+| vpbprd00  |
+| wcsprd00  |
++-----------+
+85 rows in set (0.00 sec)
+
+mysql> noteee
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'noteee' at line 1
+mysql> notee;

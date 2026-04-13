@@ -1,0 +1,18 @@
+# ESP Processor Dependencies
+# Python 3.8+
+
+# Database
+mysql-connector-python>=8.0.0
+
+# Utilities (standard library, listed for reference)
+# - csv
+# - datetime
+# - os
+# - sys
+# - argparse
+# - logging
+# - zipfile
+# - glob
+# - dataclasses (Python 3.7+)
+# - contextlib
+# - typing
